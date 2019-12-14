@@ -68,7 +68,7 @@ protected void onDestroy() {
 # Github md 插入公式  
 安装chrome的插件 GitHub with MathJax 可以在你自己的浏览器解析Latex公式，但是没装插件的人看着还是源码。xuan!!!  
 [牛]https://github.com/orsharir/github-mathjax  
-莫名其妙！！！
+莫名其妙！！！  
 $$
 y_{i} \cong \widetilde{Y}_{i}=S\left(x_{i}^{1}, \ldots, x_{i}^{T} ; \theta\right)
 $$
@@ -77,5 +77,5 @@ $$
 y_{i} \cong \widetilde{Y}_ {i}=S\left(x_{i}^{1}, \ldots, x_{i}^{T} ; \theta\right)
 $$  
 ![error](https://github.com/David-on-Code/md_using/blob/master/e.png)  
-![right](https://github.com/David-on-Code/md_using/blob/master/r.png)
-GitHub公式编辑正确与否，检查公式 是否有斜体存在!!!!，一般添加空格即可解决！
+![right](https://github.com/David-on-Code/md_using/blob/master/r.png)  
+GitHub公式编辑正确与否，检查公式 是否有斜体存在!!!!，一般添加空格即可解决！  
