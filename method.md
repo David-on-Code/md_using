@@ -67,7 +67,7 @@ protected void onDestroy() {
 
 # Github md 插入公式  
 安装chrome的插件 GitHub with MathJax 可以在你自己的浏览器解析Latex公式，但是没装插件的人看着还是源码。xuan!!!  
-![牛](https://github.com/orsharir/github-mathjax)  
+[牛]https://github.com/orsharir/github-mathjax  
 莫名其妙！！！
 $$
 y_{i} \cong \widetilde{Y}_{i}=S\left(x_{i}^{1}, \ldots, x_{i}^{T} ; \theta\right)
