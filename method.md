@@ -78,3 +78,4 @@ y_{i} \cong \widetilde{Y}_ {i}=S\left(x_{i}^{1}, \ldots, x_{i}^{T} ; \theta\righ
 $$  
 ![error](https://github.com/David-on-Code/md_using/blob/master/e.png)  
 ![right](https://github.com/David-on-Code/md_using/blob/master/r.png)
+GitHub公式编辑正确与否，检查公式 是否有斜体存在!!!!，一般添加空格即可解决！
